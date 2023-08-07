@@ -1,0 +1,45 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+a{
+  color: white;
+}
+body {
+  width: 62.3rem;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  zoom: 75%; /* Set the desired zoom level */
+}.button-6UZ {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2.8rem 2rem;
+  width: 100%;
+  height: 21.2rem;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.button-6UZ .property-1default-o85 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f26440;
+}
